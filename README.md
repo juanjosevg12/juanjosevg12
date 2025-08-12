@@ -1,5 +1,5 @@
 ## Hi, I'm Juan Jose👋👨‍💻
-<img width="1536" height="1024" alt="github img" src="https://github.com/user-attachments/assets/cd9da4dc-ac30-44e9-b31c-0eac300e3fe3" />
+<img width="600px" height="400px" alt="github img" src="https://github.com/user-attachments/assets/cd9da4dc-ac30-44e9-b31c-0eac300e3fe3" />
 
 <!--
 **juanjosevg12/juanjosevg12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
